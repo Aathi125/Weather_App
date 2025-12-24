@@ -4,6 +4,7 @@ This is a simple Weather Application developed using **HTML, CSS, and JavaScript
 The main purpose of this project is to understand and practice **API integration** by fetching real time weather data from an external API.
 
 ---
+![Website Image](assets/App_view.png)
 
 ## 🚀 Features
 
