@@ -89,3 +89,6 @@ body{
   margin-top: 10px;
   display: none;
 }
+.weather{
+  display: none;
+}
