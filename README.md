@@ -47,8 +47,7 @@ Follow the steps below to get your API key and run the project successfully:
 
 https://api.openweathermap.org/data/2.5/weather?q=CITY_NAME&appid=YOUR_API_KEY&units=metric
 
-yaml
-Copy code
+
 
 Replace:
 - `CITY_NAME` with the city entered by the user
@@ -65,8 +64,6 @@ weather-app/
 ├── script.js
 └── README.md
 
-yaml
-Copy code
 
 ---
 
